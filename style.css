@@ -1,0 +1,97 @@
+
+
+body {
+  background-color: #669;
+  font-family: "Arial Black", Helvetica, sans-serif;
+  font-size: 1em;
+  color: black;
+}
+
+table {width:100%; padding:12px; }
+table#social {width:100%; padding:0px; }
+td {border: 0px solid black;
+   padding:12px;
+ } 
+td#pic {width:220px;  }
+td.social {padding:4px;}
+img#pic1{ border: 14px solid #0099cc;
+      border-radius: 4px 4px 8px 4px;  
+    -webkit-border-radius: 4px 4px 8px 4px;  
+    -moz-border-radius: 4px 4px 8px 4px;  
+    -o-border-radius: 4px 4px 8px 4px;
+
+
+}
+
+div {
+    background-color: #77CCEB;
+		border 3px solid #333399;
+
+    border-radius: 14px 14px 18px 14px;
+    -webkit-border-radius: 14px 14px 28px 14px;  
+    -moz-border-radius: 14px 14px 28px 14px;  
+    -o-border-radius: 14px 14px 28px 14px;
+    /* text-shadow: 2px 2px 1px #111; */	
+	 
+}  
+div#ContactInfo {width:800px; 
+	   margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+
+}
+
+
+
+img {  
+    
+	transition: opacity 2s ease-in 1s;  
+    -webkit-transition: opacity 2s ease-in 1s; /* chrome, safari, flock */  
+    -moz-transition: opacity 2s ease-in 1s; /* mozilla+gecko */  
+    -o-transition: opacity 2s ease-in 1s; /* opera */  
+}  
+
+/*
+#E44424
+#67BCDB
+#A2AB58
+#FFFFFF
+*/
+
+img#pic1 { background-color:lightgrey;  }
+
+
+div#sidebar {  
+    width: 210px;  
+    -moz-column-count: 3;  
+    -moz-column-gap: 7px;  
+    -webkit-column-count: 3;  
+    -webkit-column-gap: 7px;  
+    column-count: 3;  
+    column-gap: 7px; }  
+
+p {
+display: block;
+margin: 1em;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}	
+	
+h1, h2, h3                            { font: 2em Helvetica, Sans-Serif; margin: 10px 10px 10px 10px; }
+h1                                    { font-size: 2.5em; }
+h2                                    { font-size: 2.2em; }
+h2 a, h2 a:visited                    { color: #2e2e2e; }
+h2 a:hover                            { color: #fe4902; border-bottom: 1px dotted #2e2e2e; }
+p, li, dd                             { font: 1em/1.5em "Lucida Grande", Arial, Helvetica, Sans-Serif;
+                                        margin: 8px 8px 8px 8px; color: #5e5d5d; }
+td, th                                { font: 1em/1.5em "Lucida Grande", Arial, Helvetica, Sans-Serif;
+                                        text-align: left; }
+
+
+
+
+
+
+
