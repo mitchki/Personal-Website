@@ -1,7 +1,7 @@
 
 
 body {
-  background-color: #669;
+  background-color: #77a;
   font-family: "Arial Black", Helvetica, sans-serif;
   font-size: 1em;
   color: black;
@@ -24,7 +24,7 @@ img#pic1{ border: 14px solid #0099cc;
 }
 
 div {
-    background-color: #77CCEB;
+    background-color: #aef;
 		border 3px solid #333399;
 
     border-radius: 14px 14px 18px 14px;
@@ -79,9 +79,10 @@ margin: 1em;
 -webkit-margin-end: 0px;
 }	
 	
-h1, h2, h3                            { font: 2em Helvetica, Sans-Serif; margin: 10px 10px 10px 10px; }
+h1, h2, h3 ,h4                           { font: 2em Helvetica, Sans-Serif; margin: 10px 10px 10px 10px; }
 h1                                    { font-size: 2.5em; }
 h2                                    { font-size: 2.2em; }
+h4                                   { font-size: 1.2em; }
 h2 a, h2 a:visited                    { color: #2e2e2e; }
 h2 a:hover                            { color: #fe4902; border-bottom: 1px dotted #2e2e2e; }
 p, li, dd                             { font: 1em/1.5em "Lucida Grande", Arial, Helvetica, Sans-Serif;
