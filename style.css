@@ -7,10 +7,10 @@ body {
   color: black;
 }
 
-table {width:100%; padding:12px; }
+table {width:100%; padding:6px; }
 table#social {width:100%; padding:0px; }
 td {border: 0px solid black;
-   padding:12px;
+   padding:6px;
  } 
 td#pic {width:220px;  }
 td.social {padding:4px;}
