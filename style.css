@@ -34,7 +34,7 @@ div {
     /* text-shadow: 2px 2px 1px #111; */	
 	 
 }  
-div#ContactInfo {width:800px; 
+div#ContactInfo { 
 	   margin-left: auto;
     margin-right: auto;
     width: 80%;
@@ -79,7 +79,7 @@ margin: 1em;
 -webkit-margin-end: 0px;
 }	
 	
-h1, h2, h3 ,h4                           { font: 2em Helvetica, Sans-Serif; margin: 10px 10px 10px 10px; }
+h1, h2, h3 ,h4                           { font: 2em Helvetica, Sans-Serif; margin: 10px 10px 10px 10px; color:#527}
 h1                                    { font-size: 2.5em; }
 h2                                    { font-size: 2.2em; }
 h4                                   { font-size: 1.2em; }
