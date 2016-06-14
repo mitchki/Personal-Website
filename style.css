@@ -80,13 +80,16 @@ margin: 1em;
 }	
 	
 h1, h2, h3 ,h4                           { font: 2em Helvetica, Sans-Serif; margin: 10px 10px 10px 10px; color:#527}
-h1                                    { font-size: 2.5em; }
-h2                                    { font-size: 2.2em; }
+h1                                    { font-size: 2em; }
+h2                                    { font-size: 1.5em; }
+h3                                    { font-size: 1.5em; }
+
 h4                                   { font-size: 1.2em; }
 h2 a, h2 a:visited                    { color: #2e2e2e; }
 h2 a:hover                            { color: #fe4902; border-bottom: 1px dotted #2e2e2e; }
 p, li, dd                             { font: 1em/1.5em "Lucida Grande", Arial, Helvetica, Sans-Serif;
                                         margin: 8px 8px 8px 8px; color: #5e5d5d; }
+ .quote                                 { margin:20px 40px 20px 40px; font-style: italic;}                                       
 td, th                                { font: 1em/1.5em "Lucida Grande", Arial, Helvetica, Sans-Serif;
                                         text-align: left; }
 
