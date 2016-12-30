@@ -93,7 +93,14 @@ p, li, dd                             { font: 1em/1.5em "Lucida Grande", Arial, 
 td, th                                { font: 1em/1.5em "Lucida Grande", Arial, Helvetica, Sans-Serif;
                                         text-align: left; }
 
-
+.c0{
+  color:#000000;
+  font-weight:400;
+  text-decoration:bold;
+  vertical-align:baseline;
+  font-size:11pt;
+  font-family:"Arial";
+  font-style:normal}
 
 
 
